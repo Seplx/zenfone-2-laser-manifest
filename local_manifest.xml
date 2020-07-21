@@ -4,11 +4,11 @@
 <remote name="github"
 fetch="http://github.com" />
 
-<project path="audahadi/android_device_asus_Z00ED" name=device_asus" remote="github" revision="N" path="device/asus/Z00ED" />
+<project path="device/asus/Z00ED" name="audahadi/android_device_asus_Z00ED" remote="github" revision="N" />
 
-<project path="LineageOS/android_device_asus_msm8916-common" name="msm8916_asus-common" remote="github" revision="cm14.1" path="device/asus/msm8916-common" />
+<project path="device/asus/msm8916-common" name="LineageOS/android_device_asus_msm8916-common" remote="github" revision="cm14.1" />
 
-<project path="kernel-hut/android_kernel_asus_msm8916" name="msm8916_asus-kernel" remote="github" revision="N" path="kernel/asus/msm8916-common" />
+<project path="kernel/asus/msm8916-common" name="kernel-hut/android_kernel_asus_msm8916" remote="github" revision="N" />
 
-<project path="audahadi/android_vendor_asus" name="vendor_asus" remote="github" revision="N" path="vendor/asus/Z00xD" />
+<project path="vendor/asus/Z00xD" name="audahadi/android_vendor_asus" remote="github" revision="N" />
 </manifest>

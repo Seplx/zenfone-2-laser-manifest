@@ -6,7 +6,7 @@ fetch="http://github.com" />
 
 <project path="device/asus/Z00ED" name="audahadi/android_device_asus_Z00ED" remote="github" revision="N" />
 
-<project path="device/asus/msm8916-common" name="LineageOS/android_device_asus_msm8916-common" remote="github" revision="cm14.1" />
+<project path="device/asus/msm8916-common" name="LineageOS/android_device_asus_msm8916-common" remote="github" revision="cm-14.1" />
 
 <project path="kernel/asus/msm8916-common" name="kernel-hut/android_kernel_asus_msm8916" remote="github" revision="N" />
 
